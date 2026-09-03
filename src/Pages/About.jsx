@@ -229,7 +229,7 @@ const AboutPage = () => {
                 data-aos-duration="1300"
                 itemProp="name"
               >
-                Eki Zulfar Rachman
+                Marwan Sutyawan
               </span>
             </h2>
             
@@ -238,7 +238,7 @@ const AboutPage = () => {
               data-aos="fade-right"
               data-aos-duration="1500"
             >
-        Saya adalah mahasiswa Teknik Informatika yang berfokus pada pengembangan Front-End. 
+        Saya adalah Murid SMK Jurusan Rekayasa Perangkat Lunak yang berfokus pada pengembangan Front-End. 
 Saya berfokus pada penciptaan pengalaman digital yang menarik dan selalu berupaya memberikan solusi terbaik dalam setiap proyek yang saya kerjakan.
                   </p>
 
