@@ -89,7 +89,7 @@ const socialLinks = [
         </g>
       </svg>
     ),
-    url: "https://tiktok.com/@marwan.aj",
+    url: "https://tiktok.com/@marwn.aj?_r=1&_t=ZS-99QptT2V7fr",
     color: "black",
     gradient: "from-[#000000] via-[#25F4EE] to-[#FE2C55]",
   },
