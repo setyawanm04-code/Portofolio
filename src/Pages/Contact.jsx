@@ -171,7 +171,7 @@ const ContactPage = () => {
                 <input
                   type="text"
                   name="name"
-                  placeholder="Nama Anda"
+                  placeholder="Marwan Sutyawan"
                   value={formData.name}
                   onChange={handleChange}
                   disabled={isSubmitting}
@@ -188,7 +188,7 @@ const ContactPage = () => {
                 <input
                   type="email"
                   name="email"
-                  placeholder="Email Anda"
+                  placeholder="setyawanm04@gmail.com"
                   value={formData.email}
                   onChange={handleChange}
                   disabled={isSubmitting}

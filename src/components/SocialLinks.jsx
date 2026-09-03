@@ -26,7 +26,7 @@ const socialLinks = [
     displayName: "Instagram",
     subText: "@Wanzs",
     icon: Instagram,
-    url: "https://www.instagram.com/ohmywanzz/?hl=id",
+    url: "https://www.instagram.com/ohmywanzz221/?hl=id",
     color: "#E4405F",
     gradient: "from-[#833AB4] via-[#E4405F] to-[#FCAF45]",
   },
